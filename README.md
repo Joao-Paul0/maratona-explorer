@@ -24,7 +24,7 @@
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/311731e5-951b-4536-8837-795fe3b681e2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/311731e5-951b-4536-8837-795fe3b681e2/Untitled.png)
+![image](https://user-images.githubusercontent.com/80062650/174197622-9f6ff057-2274-4bbe-8bea-b6b380892470.png)
 
 ---
 
