@@ -1,11 +1,11 @@
 # Sumário
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#css">CSS</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#box-model">Box model</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#o-que-%C3%A9">O que é?</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#por-que-js">Por que js?</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#sintaxe">Sintaxe</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#executando-javascript">Executando javascript</a>
-- <a href="https://github.com/Joao-Paul0/maratona-explorer/edit/main/README.md#como-funciona-o-js">Como funciona o js</a>
+- [CSS](#css) 
+- [Box Model](#box-model)
+- [O que é?](#o-que-%C3%A9)
+- [Por que js?](#por-que-js)
+- [Sintaxe](#sintaxe)
+- [Executando javascript](#executando-javascript)
+- [Como funciona o js](#como-funciona-o-js)
 ---
 
 # CSS
