@@ -110,7 +110,7 @@ alert(mensagem + 10 * 100 + " abraços");
 
 ---
 
-- ## Como funciona o JS
+## Como funciona o JS
 
   ```JS
   // 1. Variáveis
