@@ -1,4 +1,5 @@
 # Sumário
+- [Introdução](#introdu%C3%A7%C3%A3o)
 - [CSS](#css) 
 - [Box Model](#box-model)
 - [O que é?](#o-que-%C3%A9)
@@ -7,6 +8,10 @@
 - [Executando javascript](#executando-javascript)
 - [Como funciona o js](#como-funciona-o-js)
 ---
+
+# Introdução
+
+É um  projeto que desenvolvi junto com o educador Mayk Brito da Rocketseat, aonde eu anotei vários pontos importantes durante o desenvolvimento. O projeto se trata de previsões, basta fazer uma pergunta que aplicação irá te responder. <a href="https://joao-paul0.github.io/maratona-explorer/">Clique aqui</a> para conferir
 
 # CSS
 
