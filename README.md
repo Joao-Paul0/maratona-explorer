@@ -11,7 +11,7 @@
 
 # Introdução
 
-É um  projeto que desenvolvi junto com o educador <a href="https://github.com/maykbrito">Mayk Brito</a> da Rocketseat, ao qual eu anotei vários pontos importantes durante o desenvolvimento. O projeto se trata de previsões, basta fazer uma pergunta que aplicação irá te responder. <a href="https://joao-paul0.github.io/maratona-explorer/">Clique aqui</a> para conferir.
+É um  projeto que desenvolvi junto com o educador <a href="https://github.com/maykbrito" target="_blank">Mayk Brito</a> da Rocketseat, ao qual eu anotei vários pontos importantes durante o desenvolvimento. O projeto se trata de previsões, basta fazer uma pergunta que aplicação irá te responder. <a href="https://joao-paul0.github.io/maratona-explorer/" target="_blank">Clique aqui</a> para conferir.
 
 # CSS
 
